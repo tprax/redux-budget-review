@@ -6,3 +6,8 @@
 .Credit {
   background-color: #E5FFE5;
 }
+
+#container {
+  display: flex;
+  justify-content: space-around;
+}
